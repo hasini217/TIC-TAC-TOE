@@ -3,6 +3,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 
 Run on Terminal
 google-chrome index.html
+
 Introduction
 ![image](https://github.com/user-attachments/assets/7fba34ab-b605-40f5-b8a3-c2b42e4691d2)
 
